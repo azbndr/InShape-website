@@ -12,6 +12,8 @@ YouTube Tutorial: https://www.youtube.com/watch?v=OJCR3oA2y8E
 
 
 # Team members
-Abdelrahman Osama.
-Mohamed Selim.
-Osama Elserwy.
+Abdelrahman Osama
+
+Mohamed Selim
+
+Osama Elserwy
